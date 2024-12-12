@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user2\\OneDrive\\Documents\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\FORK REPOSITORY\\Tanks-Game\\TanksGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2386DB10-2E66-40F1-8485-38DAF7894791}|TanksGame\\TanksGame.csproj|c:\\users\\user2\\onedrive\\documents\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\fork repository\\tanks-game\\tanksgame\\tanksgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2386DB10-2E66-40F1-8485-38DAF7894791}|TanksGame\\TanksGame.csproj|solutionrelative:tanksgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user2\\OneDrive\\Documents\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\FORK REPOSITORY\\Tanks-Game\\TanksGame\\TanksGame\\Program.cs",
+              "RelativeDocumentMoniker": "TanksGame\\Program.cs",
+              "ToolTip": "C:\\Users\\user2\\OneDrive\\Documents\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\FORK REPOSITORY\\Tanks-Game\\TanksGame\\TanksGame\\Program.cs",
+              "RelativeToolTip": "TanksGame\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T00:57:43.035Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

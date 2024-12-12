@@ -1,0 +1,14 @@
+C:\Users\user2\OneDrive\Documents\Рабочий стол\FORK REPOSITORY\Tanks-Game\TanksGame\TanksGame\bin\Debug\net8.0\TanksGame.exe
+C:\Users\user2\OneDrive\Documents\Рабочий стол\FORK REPOSITORY\Tanks-Game\TanksGame\TanksGame\bin\Debug\net8.0\TanksGame.deps.json
+C:\Users\user2\OneDrive\Documents\Рабочий стол\FORK REPOSITORY\Tanks-Game\TanksGame\TanksGame\bin\Debug\net8.0\TanksGame.runtimeconfig.json
+C:\Users\user2\OneDrive\Documents\Рабочий стол\FORK REPOSITORY\Tanks-Game\TanksGame\TanksGame\bin\Debug\net8.0\TanksGame.dll
+C:\Users\user2\OneDrive\Documents\Рабочий стол\FORK REPOSITORY\Tanks-Game\TanksGame\TanksGame\bin\Debug\net8.0\TanksGame.pdb
+C:\Users\user2\OneDrive\Documents\Рабочий стол\FORK REPOSITORY\Tanks-Game\TanksGame\TanksGame\obj\Debug\net8.0\TanksGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user2\OneDrive\Documents\Рабочий стол\FORK REPOSITORY\Tanks-Game\TanksGame\TanksGame\obj\Debug\net8.0\TanksGame.AssemblyInfoInputs.cache
+C:\Users\user2\OneDrive\Documents\Рабочий стол\FORK REPOSITORY\Tanks-Game\TanksGame\TanksGame\obj\Debug\net8.0\TanksGame.AssemblyInfo.cs
+C:\Users\user2\OneDrive\Documents\Рабочий стол\FORK REPOSITORY\Tanks-Game\TanksGame\TanksGame\obj\Debug\net8.0\TanksGame.csproj.CoreCompileInputs.cache
+C:\Users\user2\OneDrive\Documents\Рабочий стол\FORK REPOSITORY\Tanks-Game\TanksGame\TanksGame\obj\Debug\net8.0\TanksGame.dll
+C:\Users\user2\OneDrive\Documents\Рабочий стол\FORK REPOSITORY\Tanks-Game\TanksGame\TanksGame\obj\Debug\net8.0\refint\TanksGame.dll
+C:\Users\user2\OneDrive\Documents\Рабочий стол\FORK REPOSITORY\Tanks-Game\TanksGame\TanksGame\obj\Debug\net8.0\TanksGame.pdb
+C:\Users\user2\OneDrive\Documents\Рабочий стол\FORK REPOSITORY\Tanks-Game\TanksGame\TanksGame\obj\Debug\net8.0\TanksGame.genruntimeconfig.cache
+C:\Users\user2\OneDrive\Documents\Рабочий стол\FORK REPOSITORY\Tanks-Game\TanksGame\TanksGame\obj\Debug\net8.0\ref\TanksGame.dll
